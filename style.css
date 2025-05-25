@@ -1,6 +1,14 @@
 body{
-  background-color:lightblue:
+  background-color:navy;
 }
 h1{
-  font-color:yellow:
+  color:yellow;
 }
+.button1{
+  background:green;
+  color:white;
+  }
+  .button2{
+    background:green;
+    color:white;
+  }
